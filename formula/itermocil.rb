@@ -3,7 +3,7 @@ class Itermocil < Formula
   homepage "https://github.com/nspatel1986/itermocil"
   url "https://github.com/nspatel1986/itermocil/",
 	  :using => :git,
-	  :tag => '0.2.1'
+	  :tag => '0.2.2'
   sha256 "7ccd3f5e9f9a9654a71c55618fc4a77e04c0856a78d65f7741f5703ccaf832ef"
 
   resource "PyYAML" do
